@@ -261,4 +261,4 @@ numpy
 ## 📓 Notebook & Report
 
 - Full training workflow: `notebooks/training_notebook.ipynb`
-- Final internship report (methodology, dataset prep, training, evaluation, inference, error analysis, conclusions): `report/final_report.pdf`
+- Final report (methodology, dataset prep, training, evaluation, inference, error analysis, conclusions): `report/final_report.pdf`
