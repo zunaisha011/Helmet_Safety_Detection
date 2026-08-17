@@ -1,6 +1,6 @@
 # 🛡️ Helmet Safety Detection System Using YOLOv8
 
-An end-to-end Computer Vision object detection project developed as part of the **AIRI Team PITB AI Internship**. The project uses **YOLOv8n** to detect four PPE-related classes and assess helmet and safety-vest compliance from images and videos.
+An end-to-end Computer Vision object detection project. The project uses YOLOv8n to detect four PPE-related classes and assess helmet and safety-vest compliance from images and videos.
 
 ---
 
