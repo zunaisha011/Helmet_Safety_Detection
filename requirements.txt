@@ -1,0 +1,5 @@
+streamlit
+ultralytics==8.4.120
+opencv-python
+Pillow
+numpy

@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/Helmet_Safety_Detection/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names:
+  0: helmet
+  1: vest
+  2: without_helmet
+  3: without_vest
